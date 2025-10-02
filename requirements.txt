@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+cloudinary
+opencv-python-headless
+pytesseract
+regex
+requests
+numpy
+python-dotenv
